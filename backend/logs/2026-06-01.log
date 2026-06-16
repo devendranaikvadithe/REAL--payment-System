@@ -1,0 +1,90 @@
+{"timestamp":"2026-06-01T04:30:13.674Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T04:30:13.810Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T04:31:51.259Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T04:31:51.270Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T04:59:19.088Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T04:59:19.114Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T05:29:17.647Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T05:29:17.678Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T06:27:38.107Z","level":"INFO","message":"User registered","userId":"6a1d26599c0a1445dea904fe","email":"devendra143217@gmail.com"}
+{"timestamp":"2026-06-01T06:27:38.186Z","level":"INFO","message":"User logged in","userId":"6a1d26599c0a1445dea904fe","email":"devendra143217@gmail.com"}
+{"timestamp":"2026-06-01T07:02:41.262Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:02:41.300Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:07:42.127Z","level":"INFO","message":"User logged in","userId":"6a1d26599c0a1445dea904fe","email":"devendra143217@gmail.com"}
+{"timestamp":"2026-06-01T07:27:47.661Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:27:47.694Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:31:36.755Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:31:36.787Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:36:22.697Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:36:22.705Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:36:45.549Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:36:45.556Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:36:47.678Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:36:47.690Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:42:00.218Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:42:00.244Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:42:27.841Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:42:27.847Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:43:56.644Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:43:56.651Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:48:29.557Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T07:48:29.563Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T07:48:52.444Z","level":"INFO","message":"User logged in","userId":"6a1d26599c0a1445dea904fe","email":"devendra143217@gmail.com"}
+{"timestamp":"2026-06-01T07:49:10.759Z","level":"INFO","message":"Payment initiated","transactionId":"TXN17803001507421F7A6145","userId":"6a1d26599c0a1445dea904fe","type":"wallet_transfer","amount":50}
+{"timestamp":"2026-06-01T07:49:12.793Z","level":"INFO","message":"Payment completed","transactionId":"TXN17803001507421F7A6145","userId":"6a1d26599c0a1445dea904fe","amount":50}
+{"timestamp":"2026-06-01T08:06:37.509Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:06:37.523Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T08:08:00.047Z","level":"INFO","message":"User registered","userId":"6a1d3ddf6c7201bf72886a48","email":"devendranaikvadith@gmail.com"}
+{"timestamp":"2026-06-01T08:08:00.126Z","level":"INFO","message":"User logged in","userId":"6a1d3ddf6c7201bf72886a48","email":"devendranaikvadith@gmail.com"}
+{"timestamp":"2026-06-01T08:09:28.242Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:09:28.251Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T08:09:58.359Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:09:58.365Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T08:10:05.956Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:10:05.963Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T08:12:01.111Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:12:01.119Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T08:59:08.941Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T08:59:08.960Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T09:02:24.462Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T09:02:24.467Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T09:03:26.794Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T09:03:26.800Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T09:14:19.392Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T09:14:19.409Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T17:32:57.331Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T17:32:57.343Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:07:29.373Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:07:29.382Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:19:52.973Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:19:52.988Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:39:22.325Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:39:22.342Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:41:53.916Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:41:53.923Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:44:34.958Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:45:04.959Z","level":"ERROR","message":"MongoDB connection error","error":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017"}
+{"timestamp":"2026-06-01T18:54:40.039Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T18:54:40.048Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T18:55:53.996Z","level":"INFO","message":"Payment initiated","transactionId":"TXN1780340153980E152883D","userId":"6a1d26599c0a1445dea904fe","type":"wallet_transfer","amount":700}
+{"timestamp":"2026-06-01T18:55:56.029Z","level":"INFO","message":"Payment completed","transactionId":"TXN1780340153980E152883D","userId":"6a1d26599c0a1445dea904fe","amount":700}
+{"timestamp":"2026-06-01T19:19:31.449Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:19:31.463Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:19:33.264Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:19:33.270Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:19:36.083Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:19:36.089Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:19:44.229Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:19:44.235Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:20:17.758Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:20:17.764Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:20:18.564Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:20:18.572Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:34:45.354Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:34:45.366Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:35:13.884Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:35:13.890Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:38:56.391Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:38:56.397Z","level":"INFO","message":"MongoDB connected successfully"}
+{"timestamp":"2026-06-01T19:42:29.448Z","level":"INFO","message":"Server running on port 5001 in development mode"}
+{"timestamp":"2026-06-01T19:42:29.454Z","level":"INFO","message":"MongoDB connected successfully"}
